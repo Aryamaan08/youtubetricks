@@ -1,2 +1,4 @@
 # youtubetricks
-YouTube keys are being tampered with! Open up a video, and execute this code! Open readme first.
+Make sure to install python and pyautogui:
+'pip install pyautogui'
+In the 5-second interval, open up the YouTube video.
